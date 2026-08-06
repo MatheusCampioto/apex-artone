@@ -10,19 +10,7 @@ Dashboard Oracle APEX para gerenciamento de logística em tempo real.
 - **Status:** Em produção
 - **Dados:** Motoristas, Posições GPS, Cargas
 - **Integração:** API Engerisco (sincronização a cada 10 min)
-
-### 👤 [Cadastro de Usuários](./apex/app-145697-cadastro-usuarios/)
-CRUD para gerenciamento de usuários no sistema.
-- **App ID:** 145697
-- **Status:** Em desenvolvimento
-- **Features:** Criar, Ler, Atualizar, Deletar usuários
-
-### 📊 [NexERP](./nexerp/)
-Sistema ERP próprio em desenvolvimento.
-- **Stack:** Frontend/Backend conforme definido
-- **Status:** Em andamento
-- **Repositório separado:** [MatheusCampioto/NexERP](https://github.com/MatheusCampioto/NexERP)
-
+- 
 ---
 
 ## 🔄 Sincronizações Automáticas
