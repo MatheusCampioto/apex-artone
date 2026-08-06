@@ -1,6 +1,3 @@
-SELECT job_name, enabled, next_run_date, state 
-FROM DBA_SCHEDULER_JOBS 
-WHERE job_name LIKE 'JOB_SYNC%';# APEX Cockpit Logística - Migração On-Premise + Integração Engerisco
 
 ## 🎯 Status Final - 05/08/2026 17:00
 
