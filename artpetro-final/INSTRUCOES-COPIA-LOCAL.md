@@ -59,7 +59,6 @@ Deve aparecer em `C:\Users\ArtGroup\Claude.Matheus\`:
 📁 sql/
 📁 apex/
 ```
-
 ---
 
 ## 🚀 Passo 5: Git Push (Opcional)
@@ -80,14 +79,6 @@ git add .
 git commit -m "Docs: Estrutura completa ArtPetro"
 git push origin main
 ```
-
----
-
-## ⚠️ IMPORTANTE
-
-✅ **SÓ ArtPetro** - nada de NexERP aqui!  
+## ⚠️ IMPORTANTE 
 ✅ **PASTA CORRETA** - `C:\Users\ArtGroup\Claude.Matheus\`  
 
----
-
-**Pronto! Tá tudo lá!** 🎉
