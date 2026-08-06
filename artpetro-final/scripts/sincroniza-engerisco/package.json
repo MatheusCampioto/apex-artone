@@ -1,0 +1,34 @@
+{
+  "name": "sincroniza-engerisco",
+  "version": "4.4.0",
+  "description": "Script de sincronização automática com API Engerisco",
+  "main": "sincroniza-engerisco-v4.4-agendado.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node sincroniza-engerisco-v4.4-agendado.js agendado",
+    "test": "node sincroniza-engerisco-v4.4-agendado.js uma-vez",
+    "once": "node sincroniza-engerisco-v4.4-agendado.js uma-vez"
+  },
+  "keywords": [
+    "engerisco",
+    "sincronizacao",
+    "oracle",
+    "api",
+    "logistica"
+  ],
+  "author": "Matheus Campioto",
+  "license": "PRIVATE",
+  "dependencies": {
+    "oracledb": "^7.0.1",
+    "axios": "^1.6.0",
+    "node-schedule": "^2.1.1"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusCampioto/apex-cockpit.git"
+  }
+}
