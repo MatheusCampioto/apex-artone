@@ -49,8 +49,7 @@ graph TB
 - 🔐 Autenticação integrada ao BD
 
 **Apps:**
-- App 128150: Cockpit de Logística
-- App 145697: Cadastro de Usuários
+- App 128150: Dashboard
 
 ---
 
