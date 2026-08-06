@@ -87,7 +87,6 @@ git push origin main
 
 ✅ **SÓ ArtPetro** - nada de NexERP aqui!  
 ✅ **PASTA CORRETA** - `C:\Users\ArtGroup\Claude.Matheus\`  
-✅ **NÃO MIX** - mantenha NexERP separado
 
 ---
 
