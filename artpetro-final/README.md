@@ -39,7 +39,6 @@ apex-cockpit/
 ├── /sql                  → Procedures PL/SQL, Views, Tabelas
 ├── /apex                 → Código e documentação Oracle APEX
 ├── /docs                 → Documentação geral
-├── /nexerp               → Referência ao projeto NexERP
 └── README.md             → Este arquivo
 ```
 
