@@ -1,0 +1,50 @@
+Padrão de cores sistema ArtOne
+
+/* CORES PRIMÁRIAS (identidade) */
+--color-primary: #E25F21;      /* Laranja ArtPetro */
+--color-primary-dark: #C04A1A; /* Hover/Focus */
+--color-primary-light: #F5D5C0; /* Background suave */
+
+/* CORES SEMÂNTICAS */
+--color-success: #27AE60;       /* Verde — Ativo, aprovado, ok */
+--color-error: #E74C3C;         /* Vermelho — Inativo, erro, crítico */
+--color-warning: #F39C12;       /* Amarelo — Atenção, pendente */
+--color-info: #3498DB;          /* Azul — Informativo */
+
+/* CORES NEUTRAS (sua paleta) */
+--color-black: #000000;         /* Pantone Black */
+--color-gray: #C9C9C9;          /* Pantone 420 C */
+--color-gray-dark: #7F7F7F;     /* Mais escuro (texto secundário) */
+--color-gray-light: #E8E8E8;    /* Mais claro (backgrounds) */
+--color-white: #FFFFFF;         /* Branco */
+
+/* BADGES — Estados */
+--badge-ativo-bg: #D5F4E6;       /* Verde claro */
+--badge-ativo-text: #27AE60;     /* Verde escuro */
+
+--badge-inativo-bg: #FADBD8;     /* Vermelho claro */
+--badge-inativo-text: #E74C3C;   /* Vermelho escuro */
+
+--badge-pendente-bg: #FEF5E7;    /* Amarelo claro */
+--badge-pendente-text: #F39C12;  /* Amarelo escuro */
+
+/* BADGES — Tipos de Perfil (use a primária + tons) */
+--badge-admin-bg: #F5D5C0;       /* Laranja claro */
+--badge-admin-text: #C04A1A;     /* Laranja escuro */
+--badge-admin-border: #E25F21;   /* Laranja primária */ 
+
+--badge-faturamento-bg: #E8F8F5; /* Ciano claro */
+--badge-faturamento-text: #16A085;
+--badge-faturamento-border: #1ABC9C;
+
+--badge-logistica-bg: #EBF5FB;   /* Azul claro */
+--badge-logistica-text: #2E86C1;
+--badge-logistica-border: #3498DB;
+
+--badge-operador-bg: #F4ECF7;    /* Roxo claro */
+--badge-operador-text: #7D3C98;
+--badge-operador-border: #A569BD;
+
+--badge-supply-bg: #E8F8F5;      /* Verde claro */
+--badge-supply-text: #1E8449;
+--badge-supply-border: #27AE60;
