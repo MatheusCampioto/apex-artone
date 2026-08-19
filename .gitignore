@@ -1,77 +1,42 @@
-# Node.js
+# Dependencies
 node_modules/
 package-lock.json
-npm-debug.log*
-yarn-error.log*
+yarn.lock
 
-# Environment variables
+# Environment
 .env
 .env.local
 .env.*.local
 
-# Credenciais & Senhas
-*.credentials
-*.pwd
-credentials.json
-secrets.json
-
-# Arquivos do Sistema
-.DS_Store
-Thumbs.db
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
 
 # Logs
 logs/
 *.log
+npm-debug.log*
 
-# Temp files
-temp/
-tmp/
-*.tmp
-
-# IDEs
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-
-# Banco de dados
-*.db
-*.sqlite
-*.sqlite3
-
-# Build outputs
-dist/
-build/
-out/
-
-# Configurações locais
-config.local.js
-local.env
-
-# Arquivos SQL com senhas
-*-credentials.sql
-*-secrets.sql
+# APEX Export (temporário)
+apex-export*.sql
 
 # Backups
 *.bak
 *.backup
-*.old
 
-# PL/SQL Developer
-.plsqld/
+# Temporary files
+tmp/
+temp/
+*.tmp
 
-# APEX
-apex-backup/
+# Database backups (se houver)
+*.dmp
+*.exp
