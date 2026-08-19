@@ -6,16 +6,15 @@
 
 ## O que é?
 
-Sistema APEX de gestão de logística para ArtPetro. Integra dados de Sispetro (interno, SQL Anywhere) com Engerisco (API externa).
+Sistema APEX de gestão de logística para ArtPetro. Integra dados de Sispetro (SQL Anywhere) com Engerisco (API externa).
 
 ### Componentes
 
-- **Application 100** - CRUD de Usuários + Cadastro de Acessos
-- **Application 128150** - Cockpit de Logística + Sistema de Alertas
+- **Application 100** - Dashboard
 - **Scripts Node.js:**
   - sincroniza-engerisco (a cada 30 min)
-  - send-email (alertas por email)
-  - send-whatsapp (alertas por WhatsApp)
+  - server-email (alertas por email)
+  - server-whatsapp (alertas por WhatsApp)
 
 ## Setup Rápido
 
