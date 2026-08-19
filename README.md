@@ -1,4 +1,4 @@
-# ArtOne - Oracle APEX Cockpit Logística
+# ArtOne - Oracle APEX Torre de Controle
 
 **Status:** Em produção  
 **Versão Atual:** v1.0.0  
